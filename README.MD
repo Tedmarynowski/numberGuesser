@@ -1,0 +1,1 @@
+Simple number guessing game. Currently using skeleton.css. Will be remade in the future with custom CSS.
